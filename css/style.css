@@ -1,0 +1,50 @@
+/* bootstrap */
+@import url('bootstrap.css');
+@import url('bootstrap-responsive.css');
+
+.navbar-fixed-top .container {
+	height : 2em;
+}
+.navbar .name {
+	margin-left:0;
+	padding: 0;
+	margin-top: 1.05em;
+}
+.navbar .name a {
+	padding: 0;
+	color: #fff;
+	font-size: 1.75em;
+	margin-left: 0;
+	font-weight: 400;
+	text-transform:uppercase;
+}
+.navbar .name a:hover {
+text-decoration: none;
+	transition: color .15s linear;
+	-webkit-transition: color .15s linear;
+	-moz-transition: color .15s linear;
+}
+
+.navbar-inverse .navbar-inner {
+	background-repeat: repeat;
+	background-color: #0b333f;
+}
+
+#nav-links {
+	margin-top: 0em;
+}
+ul#nav-links > li > a {
+	font-weight: 600;
+	color: #fff;
+	font-size:14px;
+	text-transform:uppercase;
+}
+ul#nav-links > li > a:hover {
+	padding: 9px 15px;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+}
+ul#nav-links > li > a:focus {
+	outline:0;
+}
