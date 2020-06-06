@@ -1,0 +1,4 @@
+In the begining I was very excited for the portfolio project. However, it was very hectic coordinating a full time job and full time school this term given the circumstances for past 3 months. Nevertheless, I have learnt a lot in this class. The project1 was based on all the learnings of first four weeks.
+I enjoyed working on this project. What I find challenging is coming up with a design. If I have a layout in front of me then it's easy for me to look at the design and write code for it but I struggle a lot if I have to come up with a design by myself. 
+Moreover, I still struggle with CSS as I mentioned before, I am not very creative with designs.
+I used the basic HTML, CSS and bootstrap to complete this project. I followed few tutorials but I didnt get a chance to go through them in detail. Also, this is the first time that I am publishing a website on github so I am very excited. 
